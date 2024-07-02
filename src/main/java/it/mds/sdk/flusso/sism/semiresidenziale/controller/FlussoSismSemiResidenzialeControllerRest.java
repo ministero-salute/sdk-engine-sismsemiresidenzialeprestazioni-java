@@ -1,3 +1,5 @@
+/* SPDX-License-Identifier: BSD-3-Clause */
+
 package it.mds.sdk.flusso.sism.semiresidenziale.controller;
 
 import it.mds.sdk.flusso.sism.semiresidenziale.parser.regole.RecordDtoSismSemiresidenziale;
